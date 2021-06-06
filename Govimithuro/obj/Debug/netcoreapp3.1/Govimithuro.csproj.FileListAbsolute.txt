@@ -1,0 +1,700 @@
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.exe
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.deps.json
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.json
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.dev.json
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.pdb
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csprojAssemblyReference.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfoInputs.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfo.cs
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CoreCompileInputs.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.Manifest.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.xml
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Govimithuro.styles.css
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.RazorTargetAssemblyInfo.cache
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CopyComplete
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.pdb
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.genruntimeconfig.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.exe
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.deps.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.pdb
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfo.cs
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.RazorTargetAssemblyInfo.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CopyComplete
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.Manifest.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.xml
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.dll
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.pdb
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.genruntimeconfig.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.exe
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.deps.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.dev.json
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.pdb
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\SendGrid.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csprojAssemblyReference.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfoInputs.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfo.cs
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.RazorTargetAssemblyInfo.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CopyComplete
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.Manifest.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.xml
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.pdb
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.genruntimeconfig.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\bin\Debug\netcoreapp3.1\Stripe.net.dll
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CoreCompileInputs.cache
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cs
+F:\Academic\Semester 6\SoftwareProject-Backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\Desktop\Govimithuro\Govimithuro_solution\Govimithuro\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\kalup\OneDrive\Documents\GitHub\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Stripe.net.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\appsettings.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.exe
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.deps.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.runtimeconfig.dev.json
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Govimithuro.pdb
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SendGrid.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\Stripe.net.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csprojAssemblyReference.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfoInputs.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.AssemblyInfo.cs
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CoreCompileInputs.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cs
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.MvcApplicationPartsAssemblyInfo.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.RazorTargetAssemblyInfo.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.csproj.CopyComplete
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.Manifest.cache
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\staticwebassets\Govimithuro.StaticWebAssets.xml
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.dll
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.pdb
+E:\6 th Semester\Softwear Project\back 2\back 2\SoftwareProject-backend\Govimithuro\obj\Debug\netcoreapp3.1\Govimithuro.genruntimeconfig.cache
